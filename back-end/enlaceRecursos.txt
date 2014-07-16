@@ -1,0 +1,8 @@
+Nodejs:
+  http://codehero.co/series/node-y-express/
+
+Git desde cero:
+  http://codehero.co/series/git-desde-cero/
+
+MongoDB:
+  http://codehero.co/mongodb-desde-cero-introduccion-e-instalacion/
