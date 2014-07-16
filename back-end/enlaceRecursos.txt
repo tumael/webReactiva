@@ -8,4 +8,5 @@ Git desde cero:
   http://codehero.co/series/git-desde-cero/
 
 MongoDB:
-  http://codehero.co/mongodb-desde-cero-introduccion-e-instalacion/
+  http://codehero.co/mongodb-desde-cero-introduccion-e-instalacion/  mongos
+
