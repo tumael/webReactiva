@@ -1,0 +1,6 @@
+Mediante el uso de clases en coffeescript, realizar el modelado del siguiente
+problema: Dado un estudiante verificar en que materias esta inscrito, sabiendo
+que en cada materia solo pueden existir 20 estudiantes y cada estudiante puede
+inscribirse a lo sumo a 6 materias y como minimo a 3.
+Ademas se sabe que cada materia esta asignado a un aula y a una hora
+determinada.
