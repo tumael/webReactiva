@@ -6,4 +6,4 @@ Pasos para una Rama
 git checkout -b nombre_Rama	crea una rama y se posiciona en una rama
 git push origin nombre_Rama	sube los cambios realizado en una rama
 git pull origin nombre_Rama
-
+git branch -d nombre_Rama	eliminar una rama
