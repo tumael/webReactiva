@@ -2,6 +2,6 @@
 ::::::::::::::::::::::::::::::::COMO INSTALAR MONGODB::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-sudo apt-get install mongodb mongo-clients mongo-server
+$sudo apt-get install mongodb mongodb-clients mongodb-server
 //--para inicializar mongo
-/etc/init.d/mongodb start	
+$/etc/init.d/mongodb start
