@@ -1,0 +1,9 @@
+Pasos para Eliminar un archivo
+git reset --soft HEAD^1		si se realizo algun commit
+git reset nombreDelArchivo	si se realizo un add
+rm nombre del archivo		si solo se creo el archivo sin hacer add
+Pasos para una Rama
+git checkout -b nombre_Rama	crea una rama y se posiciona en una rama
+git push origin nombre_Rama	sube los cambios realizado en una rama
+git pull origin nombre_Rama
+
