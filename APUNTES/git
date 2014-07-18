@@ -1,5 +1,0 @@
-Pasos para Eliminar un archivo
-git reset --soft HEAD^1		si se realizo algun commit
-git reset nombreDelArchivo	si se realizo un add
-rm nombre del archivo		si solo se creo el archivo sin hacer add
-
