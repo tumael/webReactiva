@@ -6,10 +6,10 @@ Intalacion:
 ===========
 Node: Se debe descargar de la pagina oficial, descomprimir y ejecutar
 ---
->$ ./configure
->$ make
->$ make install
->> npm config set proxy http://ip:puerto
->> npm config set registry http://registry.npmjs.org/
+$ ./configure
+$ make
+$ make install
+npm config set proxy http://ip:puerto
+npm config set registry http://registry.npmjs.org/
 >> npm install -g coffee-script
 ---
