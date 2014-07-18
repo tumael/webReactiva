@@ -8,5 +8,6 @@ git push origin nombre_Rama	sube los cambios realizado en una rama
 git pull origin nombre_Rama
 git branch -d nombre_Rama	eliminar una rama
 
-
+Eliminar Directorios
 git clean -fd nombreDirectorio	elimina un directorio
+git rm -r nombreDirectorio	luego se debe hacer el comit respectivo
