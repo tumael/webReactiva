@@ -12,8 +12,10 @@ $mongo
 ::::::::::::::::::::::::::::::::SSH CON GIT::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 esto nos permitira hacer un push sin la necesidad de utentificarse cada vez
-https://help.github.com/articles/generating-ssh-keys
-
-Si estamos colaborando en otros repositorio y al hacer push nos pide passphrase
-https://help.github.com/articles/error-permission-denied-publickey
-ssh-add /home/killer/.ssh/id_rsa
+1.- Generar llaves SSH
+    https://help.github.com/articles/generating-ssh-keys
+2.- Cambiar la url orign
+    https://help.github.com/articles/changing-a-remote-s-url
+3.- Si estamos colaborando en otros repositorio y al hacer push nos pide passphrase
+    https://help.github.com/articles/error-permission-denied-publickey
+    ssh-add /home/killer/.ssh/id_rsa
