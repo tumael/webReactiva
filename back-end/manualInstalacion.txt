@@ -6,3 +6,10 @@ $sudo apt-get install mongodb mongodb-clients mongodb-server
 //--para inicializar mongo
 $/etc/init.d/mongodb start
 $mongo
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::SSH CON GIT::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+esto nos permitira hacer un push sin la necesidad de utentificarse cada vez
+https://help.github.com/articles/generating-ssh-keys
